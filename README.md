@@ -8,6 +8,14 @@ An AI-powered customer support chatbot built with Retrieval-Augmented Generation
 
 ---
 
+## 🎬 Demo
+
+[![Watch Demo](https://img.youtube.com/vi/PtP3vy3SSS4/maxresdefault.jpg)](https://youtu.be/PtP3vy3SSS4)
+
+> Click the thumbnail to watch the full demo on YouTube.
+
+---
+
 ## ✨ Key Features
 
 - **RAG Pipeline:** Retrieves top-3 relevant support tickets before generating any response — answers are always grounded in real data.
